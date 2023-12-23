@@ -1,0 +1,32 @@
+/* recipeBlogPage.module.css */
+
+.blogPage {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.blogTitle {
+  font-size: 36px;
+  color: #333; /* Dark text color */
+  margin-bottom: 10px;
+}
+
+.blogDate {
+  font-size: 16px;
+  color: #777; /* Light gray text color */
+  margin-bottom: 20px;
+}
+
+.blogImage {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.blogContent {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #555; /* Medium gray text color */
+  margin-top: 20px;
+}
+
